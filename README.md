@@ -26,7 +26,9 @@
   <img src="https://img.icons8.com/color/30/000000/javascript.png" alt="JavaScript" title="JavaScript">
   <img src="https://img.icons8.com/color/30/000000/vue-js.png" alt="Vue.js" title="Vue.js">
   <img src="https://img.icons8.com/color/30/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS">
-  <img src="https://img.icons8.com/color/30/000000/git.png" alt="Git/GitHub" title="Git/GitHub">
+  <img src="https://img.icons8.com/color/30/000000/sass.png" alt="Sass" title="Sass">
+  <img src="https://img.icons8.com/color/30/000000/github.png" alt="Git/GitHub" title="Git/GitHub">
+  <img src="https://img.icons8.com/color/30/000000/chatgpt.png" alt="ChatGPT" title="ChatGPT">
 </p>
 
 <h3 align="center">🌟 Let's Connect!</h3>
@@ -36,15 +38,13 @@
 </p>
 
 <p align="center">
-  📧 Email: <a href="mailto:ayoubakraou@email.com">[Your Email]</a>
+  <a href="mailto:[Your Email]">📧 Email</a>
   &nbsp;&nbsp;&nbsp;
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/ayoub-akraou-051a431a8/">[Your LinkedIn Profile]</a>
+  <a href="https://www.linkedin.com/in/ayoub-akraou-051a431a8/">💼 LinkedIn</a>
   &nbsp;&nbsp;&nbsp;
   🌐 Portfolio: [Coming]
 </p>
 
-<h3 align="center">🚀 Fun Fact</h3>
-<p align="center">
-  Front-end development is like painting a beautiful canvas with code!<br>
-  Let's create something awesome together! ✨
-</p>
+<blockquote align="center" style="font-style: italic; font-size: 18px;">
+  "Growth is not a destination, it's a journey of continuous learning and improvement." <br> - Brian Tracy
+</blockquote>
