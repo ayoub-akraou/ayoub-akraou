@@ -45,6 +45,6 @@
   🌐 Portfolio: [Coming]
 </p>
 
-<blockquote align="center" style="font-style: italic; font-size: 18px;">
-  "Growth is not a destination, it's a journey of continuous learning and improvement." <br> - Brian Tracy
-</blockquote>
+<h6 align="center">
+  <i> "Growth is not a destination, it's a journey of continuous learning and improvement." - Brian Tracy </i>
+</h6>
