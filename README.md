@@ -29,6 +29,7 @@
   <img src="https://img.icons8.com/color/30/000000/sass.png" alt="Sass" title="Sass">
   <img src="https://img.icons8.com/color/30/000000/github.png" alt="Git/GitHub" title="Git/GitHub">
   <img src="https://img.icons8.com/color/30/000000/chatgpt.png" alt="ChatGPT" title="ChatGPT">
+  <img src="https://img.icons8.com/color/30/000000/php.png" alt="php" title="php">
 </p>
 
 <h3 align="center">🌟 Let's Connect!</h3>
